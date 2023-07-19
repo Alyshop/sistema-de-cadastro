@@ -22,3 +22,6 @@ git push -u origin master
 git config --global user.name "Nome Sobrenome"
 git config --global user.email email
 }
+
+git restore "Aprendemos a trabalhar com essa parte de restauração de arquivos e do projeto, voltando para um estado anterior através do git restore;"
+git add "Aprendemos a adicionar os arquivos que queremos para o próximo commit através do git add."
