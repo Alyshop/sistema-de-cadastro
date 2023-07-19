@@ -2,7 +2,7 @@
 
 > Status do Projeto: Em desenvolvimento (solo)
 
-Para rodar o projetinho felas, na sua maquineta, digite:
+Para rodar o projetinho felas, digite na sua maquineta: 
 
 ''''
 node app.js
