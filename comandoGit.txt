@@ -1,0 +1,24 @@
+COMANDOS GIT 
+
+git add .  > irá adicionar as alterações feitas no codigo
+
+git commit -m "comentario sobre as alterações"
+
+git push "para empurrar as alterações para a master"
+
+
+#COMO INICIAR UM REPOSITORIO { 
+echo "# NomeRepositorio" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin git@github.com:Alyshop/NomeRepositorio.git
+git push -u origin master
+}
+
+
+#CONFIGURAR GIT GLOBAL {
+git config --global user.name "Nome Sobrenome"
+git config --global user.email email
+}
