@@ -1,1 +1,1 @@
-Vamo nessa!
+console.log("Vamo nessa!")
